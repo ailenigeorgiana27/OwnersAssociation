@@ -1,0 +1,9 @@
+C:\Users\Personal PC\source\repos\LearningApp\OwnersAssociationSolution\OwnersAssociationCore\bin\Debug\OwnersAssociationCore.dll
+C:\Users\Personal PC\source\repos\LearningApp\OwnersAssociationSolution\OwnersAssociationCore\bin\Debug\OwnersAssociationCore.pdb
+C:\Users\Personal PC\source\repos\LearningApp\OwnersAssociationSolution\OwnersAssociationCore\obj\Debug\OwnersAssociationCore.csproj.AssemblyReference.cache
+C:\Users\Personal PC\source\repos\LearningApp\OwnersAssociationSolution\OwnersAssociationCore\obj\Debug\OwnersAssociationCore.csproj.CoreCompileInputs.cache
+C:\Users\Personal PC\source\repos\LearningApp\OwnersAssociationSolution\OwnersAssociationCore\obj\Debug\OwnersAssociationCore.dll
+C:\Users\Personal PC\source\repos\LearningApp\OwnersAssociationSolution\OwnersAssociationCore\obj\Debug\OwnersAssociationCore.pdb
+C:\Users\Personal PC\source\repos\LearningApp\OwnersAssociationSolution\OwnersAssociationCore\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Personal PC\source\repos\LearningApp\OwnersAssociationSolution\OwnersAssociationCore\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Personal PC\source\repos\LearningApp\OwnersAssociationSolution\OwnersAssociationCore\obj\Debug\OwnersAssociationCore.csproj.CopyComplete
